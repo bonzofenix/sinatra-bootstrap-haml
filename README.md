@@ -8,11 +8,12 @@ Getting started
 
 Download and run sinatra-bootstrap:
 
-	git clone git@github.com:bonzofenix/sinatra-bootstrap-haml.git
+```git clone git@github.com:bonzofenix/sinatra-bootstrap-haml.git
+  cd sinatra-bootstrap-haml
 
-	cd sinatra-bootstrap-haml
-    bundle install				# To install sinatra
+  bundle install # To install sinatra
 
-	 shotgun # To run the sample
-	
-Then open [http://localhost:4567/](http://localhost:4567/)
+  shotgun        # To run the sample
+```
+
+Then open [http://localhost:9393/](http://localhost:9393/)
