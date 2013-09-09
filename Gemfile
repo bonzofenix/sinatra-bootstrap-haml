@@ -8,3 +8,8 @@ gem "rerun"
 gem 'rb-fsevent', '~> 0.9.1'
 
 gem 'shotgun'
+
+group :test do
+  gem 'rspec'
+  gem 'rack-test'
+end
